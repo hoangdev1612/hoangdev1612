@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hoang</h1>
 <h3 align="left">I'm a software engineer who is passionate about making contributing to open-source more approachable. Some technologies I enjoy working with include Java, ReactJS, Angular, JavaScript and GraphQL</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangdev1612" alt="hoangdev1612" /></a> </p>
-
 - 🔭 I’m currently working on **company project**
 
 - 🌱 I’m currently learning **ReactJS, AWS, NextJS, Kaffka,...**
