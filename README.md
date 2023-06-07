@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hoang.dev1612@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡**Shut the fuck up and code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
